@@ -1,0 +1,1 @@
+This solidity code is being run online on remix, this is only for record. This is not being compiled offline right now even though truffle suite and metamask are installed. This is because rremix is quick for compilation and checks for contracts. For truffle, a front end is needed with react, which is creates a lag. Once there is a confidence, I can shift to offline run.
